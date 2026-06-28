@@ -4,7 +4,7 @@ A full-stack **Task Tracker** web application built with the **MERN stack** (Mon
 
 🔗 **Live App:** `<add your deployed frontend URL here>`
 🔗 **Backend API:** `<add your deployed backend URL here>`
-📦 **Repository:** `<add your GitHub repo URL here>`
+📦 **Repository:** `https://github.com/manishnaidu307/Task-Tracker`
 
 ---
 
