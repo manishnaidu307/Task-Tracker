@@ -2,8 +2,7 @@
 
 A full-stack **Task Tracker** web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js). The app supports complete CRUD functionality for managing tasks — create, view, update, delete, and mark tasks as complete or pending — with a responsive UI and real-time updates without page reloads.
 
-🔗 **Live App:** `<add your deployed frontend URL here>`
-🔗 **Backend API:** `<add your deployed backend URL here>`
+
 📦 **Repository:** `https://github.com/manishnaidu307/Task-Tracker`
 
 ---
