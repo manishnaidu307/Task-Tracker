@@ -111,7 +111,7 @@ Base URL: `/api/tasks`
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/manishnaidu307/Task-Tracker
 cd task-tracker
 ```
 
@@ -184,8 +184,8 @@ Make sure to set the same environment variables (`MONGO_URI`, `CLIENT_URL`, `VIT
 
 ## 👤 Author
 
-**`<Your Name>`**
-`<your email / portfolio / LinkedIn — optional>`
+**`Manish Naidu`**
+`s.manishnaidu31@gmail.com`
 
 ---
 
